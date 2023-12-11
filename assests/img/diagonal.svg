@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="20" viewBox="0 0 180 20">
+  <defs>
+    <rect id="a" width="180" height="20" x="0" y="0"/>
+    <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" mask="url(#b)">
+    <line x1="-20" x2="10" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="-10" x2="20" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="0" x2="30" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="10" x2="40" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="20" x2="50" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="30" x2="60" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="40" x2="70" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="50" x2="80" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="60" x2="90" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="70" x2="100" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="80" x2="110" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="90" x2="120" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="100" x2="130" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="110" x2="140" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="120" x2="150" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="130" x2="160" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="140" x2="170" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="150" x2="180" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="160" x2="190" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="170" x2="200" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+    <line x1="180" x2="210" y1="30" y2="0" stroke="white" fill="none" stroke-width="1"/>
+  </g>
+</svg>

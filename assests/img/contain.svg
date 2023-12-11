@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="109" viewBox="0 0 22 109">
+  <defs>
+    <rect id="strelki-a" width="109" height="22"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="rotate(90 11 11)">
+    <mask id="strelki-b" fill="#fff">
+      <use xlink:href="#strelki-a"/>
+    </mask>
+    <g stroke="#fff" mask="url(#strelki-b)">
+      <g transform="translate(.3 -5)">
+        <polyline points="27 5 27 27 5 27" transform="rotate(135 16 16)"/>
+        <polyline points="34.996 4.556 34.996 26.556 12.996 26.556" transform="rotate(135 23.996 15.556)"/>
+        <polyline points="42.996 4.556 42.996 26.556 20.996 26.556" transform="rotate(135 31.996 15.556)"/>
+        <polyline points="50.996 4.556 50.996 26.556 28.996 26.556" transform="rotate(135 39.996 15.556)"/>
+        <polyline points="58.996 4.556 58.996 26.556 36.996 26.556" transform="rotate(135 47.996 15.556)"/>
+        <polyline points="66.996 4.556 66.996 26.556 44.996 26.556" transform="rotate(135 55.996 15.556)"/>
+        <polyline points="74.996 4.556 74.996 26.556 52.996 26.556" transform="rotate(135 63.996 15.556)"/>
+        <polyline points="82.996 4.556 82.996 26.556 60.996 26.556" transform="rotate(135 71.996 15.556)"/>
+        <polyline points="90.996 4.556 90.996 26.556 68.996 26.556" transform="rotate(135 79.996 15.556)"/>
+        <polyline points="98.996 4.556 98.996 26.556 76.996 26.556" transform="rotate(135 87.996 15.556)"/>
+        <polyline points="106.996 4.556 106.996 26.556 84.996 26.556" transform="rotate(135 95.996 15.556)"/>
+        <polyline points="114.996 4.556 114.996 26.556 92.996 26.556" transform="rotate(135 103.996 15.556)"/>
+        <polyline points="122.996 4.556 122.996 26.556 100.996 26.556" transform="rotate(135 111.996 15.556)"/>
+      </g>
+    </g>
+  </g>
+</svg>
